@@ -1,6 +1,5 @@
 <h1>Azure Home Lab</h1>
 
- ### [YouTube Demonstration]([https://youtu.be/7eJexJVCqJo](https://www.youtube.com/watch?v=g5JL2RIbThM))
 
 <h2>Description</h2>
 In this Lab, I set up a basic home SOC in Azure from scratch. Using a free Azure subscription, I walk through creating a virtual machine (VM), opening it to the internet as a honeypot, and forwarding logs to a central repository. We then integrate Microsoft Sentinel to analyze real-world attack data.
